@@ -1,0 +1,2 @@
+# Assets
+For storing images.
